@@ -1,0 +1,5 @@
+('c:\\python\\python37-32\\lib\\site-packages\\apscheduler-3.6.3-py3.7.egg',
+ None,
+ {'EGG-INFO', '*.py', '*.pyd', '*.pyc', '*.cp37-win32.pyd', '*.pyw'},
+ 'DATA',
+ [])
